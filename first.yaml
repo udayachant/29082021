@@ -24,6 +24,4 @@
        shell: nohup /usr/local/apache-tomcat-9.0.50/bin/startup.sh &
 
 
-#roles main.yml
-       #- include_tasks: second.yaml
-       #- include_tasks: third.yaml
+
